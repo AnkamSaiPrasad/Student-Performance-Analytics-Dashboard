@@ -24,3 +24,31 @@ This also provides a comprehensive analysis and visualization of student perform
 - Attendance vs. Average Marks plot
 - Top vs. Struggling Students overview
 - Student Performance Dashboard (`Power BI`)
+
+## How to Run
+
+## Using Python
+1. Clone the repository:
+   
+   `git clone https://github.com/your-username/student-performance-dashboard.git cd student-performance-dashboard`
+   #### If the above command didn't work
+   you can also do this by placing the `Sourcecode.ipynb` and `student_data.csv` in same folder.
+   
+3. Install required packages:
+  
+   `pip install pandas matplotlib seaborn jupyter`
+  
+3. Launch the notebook:
+
+   `jupyter notebook Sourcecode.ipynb`
+  
+4. Run each cell to see the model training and forecasting in action.
+
+## Using POwer BI
+1. Open `Student_Performance_Dashboard.pbix` in Power BI Desktop.
+2. Refresh the data if needed using `student_data.csv`.
+
+## Author
+#### Ankam Sai prasad
+#### B.Tech in Data Science
+#### Email: ankamsaiprasad13@gmail.com
