@@ -1,6 +1,6 @@
 # Student-Performance-Analytics-Dashboard
 This Project is Focused on analyzing Students Performance based on their marks and attendance.
-This also provides a comprehensive analysis and visualization of student performance using both Python and Power BI. It includes statistical insights, correlation analysis, and an interactive dashboard to identify top-performing and struggling students.
+This also provides a comprehensive analysis and visualization of student performance using both **Python** and **Power BI**. It includes statistical insights, correlation analysis, and an **interactive dashboard** to identify top-performing and struggling students.
 
 ## Project Contents
 - `Sourcecode.ipynb`: Python notebook for data preprocessing, analysis, and basic visualization.
@@ -45,7 +45,7 @@ This also provides a comprehensive analysis and visualization of student perform
 4. Run each cell to see the model training and forecasting in action.
 
 ## Using POwer BI
-1. Open `Student_Performance_Dashboard.pbix` in Power BI Desktop.
+1. Open `Student Performance Dashboard.pbix` in Power BI Desktop.
 2. Refresh the data if needed using `student_data.csv`.
 
 ## Author
