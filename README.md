@@ -44,7 +44,7 @@ This also provides a comprehensive analysis and visualization of student perform
   
 4. Run each cell to see the model training and forecasting in action.
 
-## Using POwer BI
+## Using Power BI
 1. Open `Student Performance Dashboard.pbix` in Power BI Desktop.
 2. Refresh the data if needed using `student_data.csv`.
 
